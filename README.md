@@ -1,0 +1,1 @@
+Developed a Habit Tracker application in Java with GUI using Swing, enabling users to add, log, delete, and track daily habits. The app includes motivational quotes, word of the day, jokes, riddles, scoring, and level progression to enhance user engagement and productivity.
